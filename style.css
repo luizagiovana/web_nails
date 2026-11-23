@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #FFF7FC;
+    color: #573D65;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: #D9B8FF;
+    padding: 25px 40px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    color: #573D65;
+    font-size: 32px;
+}
